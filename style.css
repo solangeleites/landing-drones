@@ -29,9 +29,11 @@ width: 100vw;
 .img{
 display: flex;
 flex-direction: column;
-background: black;
-width: 200px;
 height: 70px;
+}
+.logo{
+height: 70px;
+border-radius: 100px;
 }
 .nav-list{
 display: flex;
